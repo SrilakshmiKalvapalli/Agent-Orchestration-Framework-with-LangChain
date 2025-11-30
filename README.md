@@ -1,1 +1,2 @@
-Agent-Orchestration-Framework-with-LangChain
+I built a conversational agent using Python 3.13.4 and LangChain 1.1.0, connecting it to the OpenAI language model. The agent can respond to user queries through a console interface, storing inputs and retrieving relevant context from memory implemented with a FAISS vector database. Prompt templates are used to provide context-aware responses, and a simple tool-based action, such as multiplication, is implemented to simulate reasoning and action within the conversation.
+ 
