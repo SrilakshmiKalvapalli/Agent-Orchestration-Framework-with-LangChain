@@ -55,3 +55,9 @@ This project implements a multi-step AI workflow that automates a “research �
                          │  Shared Memory Store  │
                          │ (Vector / DB context) │
                          └───────────────────────┘
+## Deployment
+
+Local development URL (run the server with `uvicorn api:app --reload`):
+
+- API Docs: http://127.0.0.1:8000/docs
+- Web UI: http://127.0.0.1:8000/ui
